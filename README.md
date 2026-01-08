@@ -2,7 +2,7 @@
 
 ## 각각 1,000개 이상의 레코드를 포함하는 샘플 e-commerce データセット 모음입니다.
 
-![E-commerce dataset header](https://github.com/luminati-io/ecommerce-dataset-samples/blob/main/eCommerce-datasets.PNG)
+![E-commerce dataset header](https://github.com/bright-kr/ecommerce-dataset-samples/blob/main/eCommerce-datasets.PNG)
 
 총 수천 개의 레코드를 포함하는 E-commerce データセット 샘플입니다. 모든 データセット은 **Bright Data API**를 사용하여 추출되었습니다.
 
