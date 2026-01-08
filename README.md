@@ -1,4 +1,4 @@
-# eCommerce-dataset-samples
+# eCommerce 데이터셋 샘플
 
 ## 각각 1,000개 이상의 레코드를 포함하는 샘플 e-commerce データセット 모음입니다.
 
