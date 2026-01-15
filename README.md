@@ -1,10 +1,10 @@
 # eCommerce 데이터셋 샘플
 
-## 각각 1,000개 이상의 레코드를 포함하는 샘플 e-commerce データセット 모음입니다.
+## 각각 1,000개 이상의 레코드를 포함하는 샘플 e-commerce 데이터셋 모음입니다.
 
 ![E-commerce dataset header](https://github.com/bright-kr/ecommerce-dataset-samples/blob/main/eCommerce-datasets.PNG)
 
-총 수천 개의 레코드를 포함하는 E-commerce データセット 샘플입니다. 모든 データセット은 **Bright Data API**를 사용하여 추출되었습니다.
+총 수천 개의 레코드를 포함하는 E-commerce 데이터셋 샘플입니다. 모든 데이터셋은 **Bright Data API**를 사용하여 추출되었습니다.
 
 ## 일부 데이터 포인트는 다음과 같습니다:
 
@@ -28,9 +28,9 @@
 
 그 외에도 더 많은 항목이 있습니다.
 
-이는 수백만 개의 레코드를 포함하는 수십 개의 **e-commerce データセット (public data)**에서 파생된 샘플 データセット 및 서브セット입니다.
+이는 수백만 개의 레코드를 포함하는 수십 개의 **e-commerce 데이터셋 (public data)**에서 파생된 샘플 데이터셋 및 서브セット입니다.
 
-## Popular eCommerce データセット:
+## Popular eCommerce 데이터셋:
 - [Amazon Dataset](https://brightdata.co.kr/products/datasets/amazon)
 - [Walmart Dataset](https://brightdata.co.kr/products/datasets/walmart)
 - [Target Dataset](https://brightdata.co.kr/products/datasets/target)
@@ -40,12 +40,12 @@
 
   **그 외에도 더 많이 있습니다.**
 
-## 사용 가능한 データセット 파일 형식:
+## 사용 가능한 데이터셋 파일 형식:
 
 - **JSON**, **NDJSON**, **JSON Lines**, **CSV**, 또는 **Parquet**
 - 선택적으로 파일을 `.gz`로 압축할 수 있습니다.
 
-## データセット 전달 옵션:
+## 데이터셋 전달 옵션:
 
 - **Email**, **API download**, **Webhook**, **Amazon S3**, **Google Cloud Storage**, **Microsoft Azure**, **Snowflake**, **SFTP**
 
@@ -57,9 +57,9 @@
 
 - 특정 요구사항에 따라 추가 데이터 포인트를 보강할 수 있습니다.
 
-[전체 e-commerce データセット 받기](https://brightdata.co.kr/products/datasets/ecommerce)
+[전체 e-commerce 데이터셋 받기](https://brightdata.co.kr/products/datasets/ecommerce)
 
-## e-commerce データセット의 활용 사례는 무엇입니까?
+## e-commerce 데이터셋의 활용 사례는 무엇입니까?
 
 ### 1. 제품 트렌드 분석
 인기 제품을 식별하고, 계절별 트렌드를 분석하며, 소비자 수요에 대한 인사이트를 확보하여 마케팅 및 재고 전략을 정교화할 수 있습니다.
@@ -72,9 +72,9 @@
 
 ### 연구자 및 NGO를 위한 무료 이용
 
-Bright Initiative는 환경 또는 사회적 목적을 위해 활동하는 대학(학부), 연구자, NGO, NPO에 **[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)** 및 **[ready-to-use データセット](https://brightdata.co.kr/products/datasets)**에 대한 무료 접근 권한을 제공합니다. 신청서는 [여기](https://brightinitiative.com)에서 제출하시기 바랍니다.
+Bright Initiative는 환경 또는 사회적 목적을 위해 활동하는 대학(학부), 연구자, NGO, NPO에 **[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)** 및 **[ready-to-use 데이터셋](https://brightdata.co.kr/products/datasets)**에 대한 무료 접근 권한을 제공합니다. 신청서는 [여기](https://brightinitiative.com)에서 제출하시기 바랍니다.
 
-### e-commerce 웹사이트를 직접 スクレイピング하고 싶으신가요? [eCommerce Scraper API](https://brightdata.co.kr/products/web-scraper/ecommerce)를 사용해 보시기 바랍니다.
+### e-commerce 웹사이트를 직접 스크레이핑하고 싶으신가요? [eCommerce Scraper API](https://brightdata.co.kr/products/web-scraper/ecommerce)를 사용해 보시기 바랍니다.
 Popular ecommerce scrapers:
 - [Amazon Scraper](https://brightdata.co.kr/products/web-scraper/amazon)
 - [Walmart Scraper](https://brightdata.co.kr/products/web-scraper/walmart)
